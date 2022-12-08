@@ -1,0 +1,15 @@
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\bin\Debug\net7.0\day4_homeWork.exe
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\bin\Debug\net7.0\day4_homeWork.deps.json
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\bin\Debug\net7.0\day4_homeWork.runtimeconfig.json
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\bin\Debug\net7.0\day4_homeWork.dll
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\bin\Debug\net7.0\day4_homeWork.pdb
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.AssemblyInfo.cs
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.dll
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\refint\day4_homeWork.dll
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.pdb
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\day4_homeWork.genruntimeconfig.cache
+C:\Users\tofiq\source\repos\day4_homeWork\day4_homeWork\obj\Debug\net7.0\ref\day4_homeWork.dll
